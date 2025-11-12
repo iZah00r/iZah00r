@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Zahoor 👋
 
-<!--
-**iZah00r/iZah00r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student • Developer || Game & Graphic Designer**
 
-Here are some ideas to get you started:
+🎯 I build tools, Softwares, indie games and clean front-end and back-end experiences.  
+🔭 Currently: Building an AI Dungeon Master in Python,
+              3D car tracking racing game in C# using Unity game engine,
+              Working on own indie Softwares.
+📫 Get in touch: izahri495@gmail.com| ([https://your-portfoli](https://github.com/iZah00r/iZah00r/edit/main/README.md)o)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+
+## Skills
+C • C++ • C# • Python • Java • JavaScript • Unity • Figma 
+Adobe Photoshop • Adobe Illustrator• Adobe Premier Pro • Adobe After Effects • Framer • UI/UX • Git
+
+
+> Open to internships, collaborations & freelance work.
